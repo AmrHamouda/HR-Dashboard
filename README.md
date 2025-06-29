@@ -1,10 +1,11 @@
 HR Dashboard
 
+
+![Alt text]([path/to/image.png](https://github.com/AmrHamouda/HR-Dashboard/blob/0739037cb5cf931b82fbc21d7eac8307e247788f/images/Hr-Summry.png))
+
 ![Alt text](https://github.com/AmrHamouda/HR-Dashboard/blob/27a41bdeac034cc1ae7e6d24410e48ec326be66b/images/HR-Detail.png) 
 
 
-
-![Alt text](path/to/image.png)
 
 The HR Dashboard is an interactive and comprehensive tool designed for HR managers to analyze and monitor key human resources metrics. It provides both high-level summaries and detailed employee records to facilitate informed decision-making and strategic workforce planning.
 
