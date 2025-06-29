@@ -1,7 +1,7 @@
 HR Dashboard
 
 
-![Alt text]((https://github.com/AmrHamouda/HR-Dashboard/blob/0739037cb5cf931b82fbc21d7eac8307e247788f/images/Hr-Summry.png))
+![Alt text](https://github.com/AmrHamouda/HR-Dashboard/blob/0739037cb5cf931b82fbc21d7eac8307e247788f/images/Hr-Summry.png)
 
 ![Alt text](https://github.com/AmrHamouda/HR-Dashboard/blob/27a41bdeac034cc1ae7e6d24410e48ec326be66b/images/HR-Detail.png) 
 
