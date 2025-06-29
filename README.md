@@ -1,6 +1,6 @@
 HR Dashboard
 
-![Alt text](path/to/image.png) 
+![Alt text](https://github.com/AmrHamouda/HR-Dashboard/blob/27a41bdeac034cc1ae7e6d24410e48ec326be66b/images/HR-Detail.png) 
 
 
 
